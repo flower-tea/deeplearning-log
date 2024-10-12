@@ -1,1 +1,3 @@
 *.m linguist-language=Matlab
+*.cpp linguist-language=C++
+*.p linguist-language=Python
